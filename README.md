@@ -6,7 +6,7 @@ Hanan Foods is a responsive pizza restaurant website developed using HTML, CSS, 
 
 The primary objective of this project was to strengthen front-end web development skills by implementing responsive layouts, interactive navigation, and an attractive user interface.
 
-Features
+                                                Features
 
 Responsive user interface
 
@@ -38,7 +38,7 @@ JavaScript
 
 
 
-Project Structure
+                                              Project Structure
 
 Hanan-Foods/
 
@@ -55,7 +55,7 @@ Hanan-Foods/
 └── ...
 
 
-Installation
+                                            Installation
 
 Open the project by launching the index.html file in your preferred web browser.
 Alternatively, open the project in Visual Studio Code and use the Live Server extension.
@@ -74,7 +74,7 @@ Sign In
 
 
 
-Learning Outcomes
+                                              learning Outcomes
 
 This project provided practical experience in:
 
