@@ -36,6 +36,8 @@ CSS3
 
 JavaScript
 
+
+
 Project Structure
 
 Hanan-Foods/
@@ -51,6 +53,7 @@ Hanan-Foods/
 ├── assets/
 
 └── ...
+
 
 Installation
 
@@ -68,6 +71,8 @@ Products
 Contact
 
 Sign In
+
+
 
 Learning Outcomes
 
