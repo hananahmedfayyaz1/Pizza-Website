@@ -34,20 +34,21 @@ Hanan-Foods/
 
 Installation
 
-Clone the repository:
-git clone https://github.com/yourusername/Hanan-Foods.git
-Navigate to the project directory:
-cd Hanan-Foods
 Open the project by launching the index.html file in your preferred web browser.
 Alternatively, open the project in Visual Studio Code and use the Live Server extension.
 
 Website Sections
 
 Home
+
 About Us
+
 Products
+
 Contact
+
 Sign In
+
 Learning Outcomes
 
 This project provided practical experience in:
